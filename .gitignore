@@ -1,0 +1,6 @@
+.vagrant/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
